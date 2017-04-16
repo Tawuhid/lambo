@@ -1,0 +1,163 @@
+body {
+	margin: 0;
+	padding: 0;
+
+
+}
+
+.logo{
+        height: 81px;
+        width: 90px;
+        background-color: chocolate;
+        float: left;
+         background-image:url(../image/9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main {
+    height: 590px;
+    width: 1400px;
+    margin: 0 auto;
+    background-color: black;
+}
+.menu {
+     background-color: black;
+     overflow: hidden;
+}
+
+
+
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+li {
+
+    list-style-type: none;
+    float: left;
+}
+a {
+    color: #FFC107;
+    text-decoration: none;
+    font-size: 27px;
+    padding: 25px 53px;
+    display: block;
+    text-transform: uppercase;
+}
+a:hover{
+     background-color: #e95d1e;
+}
+.content{
+
+	width: 100%;
+    height: 489px;
+}
+
+.leftside{
+    background-color: red;
+    height: 510px;
+    width: 70%;
+    float: left;
+}
+.one{
+   width: 50%;
+    height: 300px;
+    background-color: black;
+    float: left;
+     background-image:url(../image/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.two{
+    width: 50%;
+    height: 300px;
+    float: left;
+    background-color: #E91E63;
+    background-image:url(../image/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.three{
+width: 50%;
+    height: 210px;
+    background-color: #009688;
+    float: left;
+    background-image:url(../image/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.th{
+width: 50%;
+    height: 210px;
+    background-color: #009688;
+    float: left;
+    background-image:url(../image/6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rightside{
+        height: 510px;
+        width: 30%;
+        background-color: yellow;
+        float: left
+ }
+ .four{
+    width: 100%;
+    height: 50%;
+    background-color: black;
+    float: left;
+    background-image:url(../image/5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }	
+ .five{
+    width: 100%;
+    height: 50%;
+    background-color: chocolate;
+    float: left;
+    background-image:url(../image/7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ 
+.foot{
+    
+    padding: 0px;
+    margin: 0px;
+    width: 1400px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.69);
+}
+h1{font-family: 'Goudy Bookletter 1911', serif;
+        padding: 0px;
+    text-align: center;
+    color: wheat;
+    margin: 0px;
+}
+p{
+    font-family: 'Goudy Bookletter 1911', serif;
+       text-align: justify;
+    padding: 0px 45px;
+     color: wheat;
+
+
+
+}
+
+h4{
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align: center;
+    color: wheat;
+    padding-top: 35px;
+}
+
+#avn{
+        color: white;
+     }   
+#veneno{
+        color: white;
+     }   
